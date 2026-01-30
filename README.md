@@ -3,9 +3,7 @@
 [![Testes](https://github.com/felipetster/cypress-todo-tests/actions/workflows/tests.yml/badge.svg)](https://github.com/felipetster/cypress-todo-tests/actions)
 
 ## Objetivo
-Demonstrar habilidades de QA com foco em validação de dados, 
-integrando testes de API com conhecimento de SQL.
-
+Demonstrar habilidades de QA com foco técnico em validação de dados, integrando testes automatizados de API (Cypress) com verificações de integridade em banco de dados (SQL).
 ## Stack
 - Cypress 13
 - JavaScript ES6
@@ -39,5 +37,5 @@ npx cypress open
 - CI/CD configurado
 
 ## Autor
-[Felipe Castro] - QA 
-[/felipetster] | [felipe.c.lima1604@gmail.com]
+**Felipe Castro** - QA Analyst  
+[LinkedIn](https://www.linkedin.com/in/felipetster/) | [GitHub](https://github.com/felipetster) | [Email](mailto:felipe.c.lima1604@gmail.com)
