@@ -1,6 +1,6 @@
 # Cypress Portfolio - API Testing + SQL Validation
 
-[![Testes](https://github.com/felipetster/cypress-portfolio/actions/workflows/tests.yml/badge.svg)](https://github.com/felipetster/cypress-todo-tests)
+[![Testes](https://github.com/felipetster/cypress-todo-tests/actions/workflows/main.yml/badge.svg)](https://github.com/felipetster/cypress-todo-tests/actions)
 
 ## Objetivo
 Demonstrar habilidades de QA com foco em validação de dados, 
